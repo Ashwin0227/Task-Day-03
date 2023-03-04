@@ -32,7 +32,7 @@ let myResume={
         "name":[
             "I am a active learner looking for a platform to develop my skills in Full Stack Development and find a job where I fit perfectly to learn and grow. 
         ]
-    ]
+    ],
     "Skills and Abilities": [
       {
         "name": "Javascript,Html,Css",
